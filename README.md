@@ -43,7 +43,7 @@
 <b>Durante a apresentação do minicurso, <span style="color:#10a37f">você não precisa clonar nenhum repositório</span>!<br>
 Vamos construir o projeto juntos, passo a passo.</b>
 <br><br>
-<span style="font-size:0.95em;">Se ficar com dúvidas, me chame! Mas se preferir, consulte os slides ou os repositórios abaixo.<br><br>
+<span style="font-size:0.95em;">Se ficar com dúvidas, me chame! Mas se preferir, consulte os slides ou os repositórios acima.<br><br>
 Depois do evento, pratique em casa e evolua seu portfólio! <br><br>
 </span>
 </div>
