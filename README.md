@@ -71,6 +71,6 @@ Depois do evento, pratique em casa e evolua seu portfólio! <br><br>
       <img src="https://img.shields.io/badge/LinkedIn-Nathália%20Acordi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
    <br><br>
-   Se curtiu o projeto, <a href="https://github.com/nathalia-acordi/recipe-improviser">⭐ dê uma estrela!</a></i>
+   Se curtiu o projeto, dê uma estrela! ⭐
 </div>
 <hr/>
