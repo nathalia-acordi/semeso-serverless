@@ -58,8 +58,9 @@ Depois do evento, pratique em casa e evolua seu portfólio! <br><br>
 <hr/>
 
 <div align="center">
-   <b>Bons estudos e mãos à obra! 🚀</b>
+   <h3>Bons estudos e mãos à obra! 🚀</h3>
 </div>
+
 <div align="center">
    <h3>💬 Ficou com dúvidas, quer trocar ideias ou colaborar?</h3>
    <b>Entre em contato comigo!</b><br><br>
@@ -70,7 +71,6 @@ Depois do evento, pratique em casa e evolua seu portfólio! <br><br>
       <img src="https://img.shields.io/badge/LinkedIn-Nathália%20Acordi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
    </a>
    <br><br>
-   <i>Sugestões, issues e PRs são super bem-vindos!<br/>
    Se curtiu o projeto, <a href="https://github.com/nathalia-acordi/recipe-improviser">⭐ dê uma estrela!</a></i>
 </div>
 <hr/>
