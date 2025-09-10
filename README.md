@@ -26,7 +26,7 @@
          <img src="https://img.shields.io/badge/Abrir%20Conte%C3%BAdo%20Adicional-Google%20Slides-yellow?style=for-the-badge&logo=google-slides" alt="Abrir Material Complementar"/>
       </a>
       <br>
-   <span style="font-size:1em">Material complementar: estrutura global da AWS, otimização de custos, boas práticas de segurança em serverless e uso do <b>AWS Pricing Calculator</b>.</span>
+   <span style="font-size:1em">Material complementar: estrutura global da AWS, otimização de custos, boas práticas de segurança em serverless e uso do AWS Pricing Calculator.</span>
 </ul>
 
 <hr/>
