@@ -5,19 +5,28 @@
    Aqui você encontra <b>slides, repositórios de código</b> e instruções para praticar e evoluir no tema!</p>
 </div>
 
+
+
 <hr/>
 
 ## 📊 Slides
 
+
 <ul>
-   <li>
-      <a href="https://docs.google.com/presentation/d/1CkbXw6xg0CQL283FNLRTZG-b__rsMH5sALx59CrPThc/edit?usp=sharing"><b>🎯 Slide 1 – Minicurso (Conteúdo Principal)</b></a><br>
-      <sub>Guia passo a passo para criar uma <b>API serverless</b> usando <b>AWS Lambda + API Gateway</b> integrada ao <b>ChatGPT</b>. Inclui evolução arquitetural para <b>SQS + SNS + MongoDB Atlas</b> e seus benefícios.</sub>
-   </li>
-   <li>
-      <a href="https://docs.google.com/presentation/d/1kF4F08zpK3wx3u8blEIM0w9ZeQIYMXx0ZaDDxWyMZZ0/edit?usp=sharing"><b>🛡️ Slide 2 – Conteúdo Extra (Regiões, Custos e Segurança)</b></a><br>
-      <sub>Material complementar: estrutura global da AWS, otimização de custos, boas práticas de segurança em serverless e uso do <b>AWS Pricing Calculator</b>.</sub>
-   </li>
+      <br>
+      <a href="https://docs.google.com/presentation/d/1CkbXw6xg0CQL283FNLRTZG-b__rsMH5sALx59CrPThc/edit?usp=sharing">
+         <img src="https://img.shields.io/badge/Abrir%20Conte%C3%BAdo%20Principal-Google%20Slides-yellow?style=for-the-badge&logo=google-slides" alt="Abrir Material Principal"/>
+      </a>
+      <br>
+   <span style="font-size:1em">Guia passo a passo para criar uma <b>API serverless</b> usando <b>AWS Lambda + API Gateway</b> integrada ao <b>ChatGPT</b>. Inclui evolução arquitetural para <b>SQS + SNS + MongoDB Atlas</b> e seus benefícios.</span>
+   <br>
+   <br>
+      <br>
+      <a href="https://docs.google.com/presentation/d/1kF4F08zpK3wx3u8blEIM0w9ZeQIYMXx0ZaDDxWyMZZ0/edit?usp=sharing">
+         <img src="https://img.shields.io/badge/Abrir%20Conte%C3%BAdo%20Adicional-Google%20Slides-yellow?style=for-the-badge&logo=google-slides" alt="Abrir Material Complementar"/>
+      </a>
+      <br>
+   <span style="font-size:1em">Material complementar: estrutura global da AWS, otimização de custos, boas práticas de segurança em serverless e uso do <b>AWS Pricing Calculator</b>.</span>
 </ul>
 
 <hr/>
@@ -25,14 +34,20 @@
 ## 💻 Código
 
 <ul>
-   <li>
-      <a href="https://github.com/nathalia-acordi/recipe-improviser"><b>🔗 Repositório Principal – Recipe Improviser</b></a><br>
-      <sub>Projeto desenvolvido durante o minicurso. Consulte para exemplos, dúvidas e deploy.</sub>
-   </li>
-   <li>
-      <a href="https://github.com/nathalia-acordi/recipe-improviser-pipeline"><b>🔗 Repositório – Evolução Arquitetural (SQS + SNS + MongoDB Atlas)</b></a><br>
-      <sub>Aprenda a evoluir para uma arquitetura assíncrona, escalável e resiliente, usando filas, tópicos e banco de dados gerenciado.</sub>
-   </li>
+      <br>
+      <a href="https://github.com/nathalia-acordi/recipe-improviser">
+         <img src="https://img.shields.io/badge/Abrir%20Reposit%C3%B3rio%20Principal-GitHub-181717?style=for-the-badge&logo=github" alt="Abrir Repositório Principal"/>
+      </a>
+      <br>
+   <span style="font-size:1em">Projeto desenvolvido durante o minicurso. Consulte para exemplos, dúvidas e deploy.</span>
+   <br>
+      <br>
+      <br>
+      <a href="https://github.com/nathalia-acordi/recipe-improviser-pipeline">
+         <img src="https://img.shields.io/badge/Abrir%20Evolu%C3%A7%C3%A3o%20Arquitetural-GitHub-6cc644?style=for-the-badge&logo=github" alt="Abrir Repositório Evolução Arquitetural"/>
+      </a>
+      <br>
+   <span style="font-size:1em">Aprenda a evoluir para uma arquitetura assíncrona, escalável e resiliente, usando filas, tópicos e banco de dados gerenciado.</span>
 </ul>
 
 <hr/>
