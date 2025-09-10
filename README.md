@@ -18,7 +18,7 @@
          <img src="https://img.shields.io/badge/Abrir%20Conte%C3%BAdo%20Principal-Google%20Slides-yellow?style=for-the-badge&logo=google-slides" alt="Abrir Material Principal"/>
       </a>
       <br>
-   <span style="font-size:1em">Guia passo a passo para criar uma <b>API serverless</b> usando <b>AWS Lambda + API Gateway</b> integrada ao <b>ChatGPT</b>. Inclui evolução arquitetural para <b>SQS + SNS + MongoDB Atlas</b> e seus benefícios.</span>
+   <span style="font-size:1em">Guia passo a passo para criar uma <b>API serverless</b> usando <b>AWS Lambda + API Gateway</b> integrada ao <b>ChatGPT</b> com armazenamento no <b>MongoDB Atlas</b>. Inclui evolução arquitetural para <b>SQS + SNS</b> e seus benefícios.</span>
    <br>
    <br>
       <br>
