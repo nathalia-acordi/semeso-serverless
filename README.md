@@ -13,27 +13,30 @@
 <hr/>
 
 ## 📊 Slides
-
-
 <div style="margin-bottom: 24px;">
    <a href="https://docs.google.com/presentation/d/1CkbXw6xg0CQL283FNLRTZG-b__rsMH5sALx59CrPThc/edit?usp=sharing">
       <img src="https://img.shields.io/badge/Abrir%20Material%20Principal-Google%20Slides-FFD600?style=for-the-badge&logo=google-slides&logoColor=FFD600" alt="Abrir Material Principal"/>
    </a>
    <br>
-   <span style="font-size:1em; display:block; margin-top:8px;">Guia passo a passo para criar uma <b>API serverless</b> usando <b>AWS Lambda + API Gateway</b> integrada ao <b>ChatGPT</b>. Inclui evolução arquitetural para <b>SQS + SNS + MongoDB Atlas</b> e seus benefícios.</span>
+   <span style="font-size:1em; display:block; margin-top:8px;">
+      <b>Material Principal</b>: passo a passo prático para construir uma <b>API serverless</b> com <b>AWS Lambda + API Gateway</b>, integrada ao <b>ChatGPT</b> e com persistência no <b>MongoDB Atlas</b>.  
+      Também mostra a evolução arquitetural com <b>SQS + SNS</b> e como esses serviços trazem ganhos de escalabilidade e desacoplamento.
+   </span>
 </div>
-<br>
-<br>
+<br><br>
 
 <div style="margin-bottom: 24px;">
    <a href="https://docs.google.com/presentation/d/1kF4F08zpK3wx3u8blEIM0w9ZeQIYMXx0ZaDDxWyMZZ0/edit?usp=sharing">
       <img src="https://img.shields.io/badge/Abrir%20Material%20Complementar-Google%20Slides-FFD600?style=for-the-badge&logo=google-slides&logoColor=FFD600" alt="Abrir Material Complementar"/>
    </a>
    <br>
-   <span style="font-size:1em; display:block; margin-top:8px;">Material complementar: estrutura global da AWS, otimização de custos, boas práticas de segurança em serverless e uso do <b>AWS Pricing Calculator</b>.</span>
+   <span style="font-size:1em; display:block; margin-top:8px;">
+      <b>Material Complementar</b>: visão global da <b>AWS</b>, estratégias para <b>otimização de custos</b>, <b>boas práticas de segurança</b> em serverless e uso do <b>AWS Pricing Calculator</b> para estimar gastos de forma precisa.
+   </span>
 </div>
 <br>
 <hr/>
+
 
 ## 💻 Código
 <div style="margin-bottom: 24px;">
@@ -57,19 +60,8 @@
 
 ---
 
-
-<div align="center" style="margin: 24px 0;">
-   <b>Durante o minicurso, <span style="color:#10a37f">você não precisa clonar nenhum repositório</span>!<br>
-   O projeto será construído ao vivo, passo a passo.</b>
-   <br><br>
-   <span style="font-size:0.95em;">Se surgir dúvida, me chame! Mas você também pode consultar os slides ou repositórios.<br>
-   Depois do evento, pratique em casa e adicione esse projeto ao seu portfólio.</span>
-</div>
-<br>
-
-
 <div align="center">
-   <h3>📚 Bons estudos e mãos à obra!</h3>
+   <h3>Depois do evento, pratique em casa e adicione esse projeto ao seu portfólio :)</h3>
 </div>
 
 <hr style="margin:30px 0;">
@@ -85,6 +77,6 @@
       </a>
    </span>
    <br><br>
-   Se curtiu este projeto, não esqueça de dar uma estrela no GitHub!
+   Se curtiu este projeto, não esqueça de dar uma estrela! ⭐
 </div>
 <hr/>
