@@ -4,8 +4,6 @@
 
 
 <div align="center">
-   <h1>☁️ <strong>Serverless na Prática</strong></h1>
-   <h3>Crie APIs com AWS Lambda integradas ao ChatGPT</h3>
    <p>Material oficial do minicurso apresentado na <b>SEMESO 2025 (UDESC Alto Vale)</b>.<br>
    Aqui você encontra <b>slides, repositórios de código</b> e instruções para praticar e evoluir no tema!</p>
 </div>
