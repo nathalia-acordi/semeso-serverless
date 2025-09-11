@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.gif" alt="Banner do projeto" style="max-width:100%;border-radius:12px;">
+</p>
+
+
 <div align="center">
    <h1>☁️ <strong>Serverless na Prática</strong></h1>
    <h3>Crie APIs com AWS Lambda integradas ao ChatGPT</h3>
