@@ -34,8 +34,22 @@
       <b>Material Complementar</b>: visão global da <b>AWS</b>, estratégias para <b>otimização de custos</b>, <b>boas práticas de segurança</b> em serverless e uso do <b>AWS Pricing Calculator</b> para estimar gastos de forma precisa.
    </span>
 </div>
+<br><br>
+
+<div style="margin-bottom: 24px;">
+   <a href="https://docs.google.com/presentation/d/1SeuLinkDoFAQAqui/edit?usp=sharing">
+      <img src="https://img.shields.io/badge/Abrir%20FAQ%20Serverless-Google%20Slides-FFD600?style=for-the-badge&logo=google-slides&logoColor=FFD600" alt="Abrir FAQ Serverless"/>
+   </a>
+   <br>
+   <span style="font-size:1em; display:block; margin-top:8px;">
+      <b>FAQ - Serverless</b>: perguntas e respostas técnicas sobre <b>AWS Lambda</b>, 
+      incluindo <b>cold start</b>, <b>concorrência</b>, <b>segurança</b>, <b>custos</b> e <b>melhores práticas</b>.  
+      Serve como material de apoio rápido para dúvidas comuns.
+   </span>
+</div>
 <br>
 <hr/>
+
 
 
 ## 💻 Código
