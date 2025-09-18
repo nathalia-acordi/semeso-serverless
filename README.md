@@ -88,6 +88,7 @@ Se você deseja se aprofundar em **Serverless** e nos serviços utilizados neste
 - [Awesome Serverless](https://github.com/pmuens/awesome-serverless) – lista curada de artigos, tutoriais e ferramentas.
 
 ### 🎥 Cursos e Comunidade
+- [Sem Servidor Podcast](https://semservidor.com.br/) - podcast brasileiro sobre Serverless.
 - [AWS Skill Builder](https://explore.skillbuilder.aws/) – treinamentos oficiais gratuitos e pagos.  
 - [r/serverless (Reddit)](https://www.reddit.com/r/serverless/) – discussões e dúvidas práticas.  
 
