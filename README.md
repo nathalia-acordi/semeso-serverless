@@ -73,6 +73,29 @@
 <br>
 
 ---
+## 📚 Recomendações de Material de Estudo
+
+Se você deseja se aprofundar em **Serverless** e nos serviços utilizados neste projeto, aqui estão alguns materiais recomendados:
+
+### 📖 Documentação Oficial
+- [AWS Lambda](https://docs.aws.amazon.com/lambda/) – documentação completa da AWS.
+- [Amazon API Gateway](https://docs.aws.amazon.com/apigateway/) – como expor suas funções como APIs.
+- [MongoDB Atlas](https://www.mongodb.com/docs/atlas/) – guia para bancos de dados gerenciados em nuvem.
+
+### 📝 Tutoriais e Guias
+- [Serverless Framework – Getting Started](https://www.serverless.com/framework/docs/getting-started)  
+- [AWS Workshops](https://workshops.aws/) – laboratórios práticos de Lambda, API Gateway, DynamoDB e muito mais.  
+- [Awesome Serverless](https://github.com/pmuens/awesome-serverless) – lista curada de artigos, tutoriais e ferramentas.
+
+### 🎥 Cursos e Comunidade
+- [AWS Skill Builder](https://explore.skillbuilder.aws/) – treinamentos oficiais gratuitos e pagos.  
+- [r/serverless (Reddit)](https://www.reddit.com/r/serverless/) – discussões e dúvidas práticas.  
+
+---
+
+👉 Sugestão: Se você é iniciante, comece pela **documentação oficial da AWS Lambda**, depois faça um **workshop prático** e, em seguida, explore livros e cursos conforme sua necessidade.
+
+---
 
 <div align="center">
    <h3>Depois do evento, pratique em casa e adicione esse projeto ao seu portfólio :)</h3>
