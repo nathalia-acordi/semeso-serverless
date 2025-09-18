@@ -37,7 +37,7 @@
 <br><br>
 
 <div style="margin-bottom: 24px;">
-   <a href="https://docs.google.com/presentation/d/1SeuLinkDoFAQAqui/edit?usp=sharing">
+   <a href="https://docs.google.com/presentation/d/1dOXk0PsX9yfZ_xQvVDMdQgjHvxok4swXiB9BTQpIzrQ/edit?usp=sharing">
       <img src="https://img.shields.io/badge/Abrir%20FAQ%20Serverless-Google%20Slides-FFD600?style=for-the-badge&logo=google-slides&logoColor=FFD600" alt="Abrir FAQ Serverless"/>
    </a>
    <br>
