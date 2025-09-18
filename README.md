@@ -89,7 +89,9 @@ Se você deseja se aprofundar em **Serverless** e nos serviços utilizados neste
 
 ### 🎥 Cursos e Comunidade
 - [Sem Servidor Podcast](https://semservidor.com.br/) - podcast brasileiro sobre Serverless.
+- [AWS COMMUNITY DAYS](https://awscommunityday.com.br/) - eventos organizados pelos grupos de usuários AWS do mundo inteiro, com o objetivo de proporcionar discussões e demonstrações de serviços AWS. Próximo evento no Brasil: **Campinas, 27/09**
 - [ServerlessDays](https://www.serverlessdays.io/) - conferência global dedicada à comunidade Serverless. Próximo evento no Brasil: **São Paulo, 08/11**.
+- [Rapha Moura - Simplify AWS](https://www.youtube.com/@SimplifyAWS) - canal no YouTube dedicado ao universo AWS.
 - [AWS Skill Builder](https://explore.skillbuilder.aws/) – treinamentos oficiais gratuitos e pagos.  
 - [r/serverless (Reddit)](https://www.reddit.com/r/serverless/) – discussões e dúvidas práticas.  
 
