@@ -89,6 +89,7 @@ Se você deseja se aprofundar em **Serverless** e nos serviços utilizados neste
 
 ### 🎥 Cursos e Comunidade
 - [Sem Servidor Podcast](https://semservidor.com.br/) - podcast brasileiro sobre Serverless.
+- [ServerlessDays](https://www.serverlessdays.io/) - conferência global dedicada à comunidade Serverless. Próximo evento no Brasil: **São Paulo, 08/11**.
 - [AWS Skill Builder](https://explore.skillbuilder.aws/) – treinamentos oficiais gratuitos e pagos.  
 - [r/serverless (Reddit)](https://www.reddit.com/r/serverless/) – discussões e dúvidas práticas.  
 
