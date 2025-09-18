@@ -93,10 +93,6 @@ Se você deseja se aprofundar em **Serverless** e nos serviços utilizados neste
 
 ---
 
-👉 Sugestão: Se você é iniciante, comece pela **documentação oficial da AWS Lambda**, depois faça um **workshop prático** e, em seguida, explore livros e cursos conforme sua necessidade.
-
----
-
 <div align="center">
    <h3>Depois do evento, pratique em casa e adicione esse projeto ao seu portfólio :)</h3>
 </div>
